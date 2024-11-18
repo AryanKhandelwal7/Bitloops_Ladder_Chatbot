@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "ENTER_YOUR_OWN_API_KEY"
 
 
 # Default system message
