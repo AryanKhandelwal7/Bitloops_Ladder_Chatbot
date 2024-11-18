@@ -20,4 +20,12 @@ Go to https://platform.openai.com/chat-completions --> Upon visiting your dashbo
 
 Once you have created your own OpenAI API key, copy the same and paste it within the app.py section where it is showcased as follows:
 
-![image](https://github.com/user-attachments/assets/9b0fc775-1ddf-4f71-ab31-08df2028597b)
+![image](https://github.com/user-attachments/assets/b771f79c-d3de-42fe-96aa-5c26c6364b67)
+
+**STEP 3 : CREATION OF FOLDERS**
+
+Once you have the HTML & the Python file set and complete, you wil need to organize them in a certain directory to avoid any errors & ensure a smooth run of the program. Please keep in mind that **all the file names should be kept the same for the entire duration. In case you are changing their names, please keep in mind to edit the corresponding code as well to avoid any errors.**
+
+Upon having both your files (app.py & index.html), create a folder named as **"my-flask-app"** and store both the files within them. Once done, create a sub-folder named as "**templates**" and store the index.html file ONLY.   
+
+Once done, you will now be able to run your .py file smoothly and ensure no errors.
