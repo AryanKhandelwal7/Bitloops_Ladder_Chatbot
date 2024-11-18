@@ -16,3 +16,8 @@ Please note that as this will be used for a public website where thousands of pe
 
 Go to https://platform.openai.com/chat-completions --> Upon visiting your dashboard, click the "API keys" section and create your own API key --> Upon its completion, go on to the "Usage" section and click on "Increase limit" --> Follow all the steps and proceed towards payment [For starters, I would recommend spending only $2]
 
+**STEP 2 : COPY AND PASTE YOUR API KEY ONTO THE APP.PY FILE**
+
+Once you have created your own OpenAI API key, copy the same and paste it within the app.py section where it is showcased as follows:
+
+![image](https://github.com/user-attachments/assets/9b0fc775-1ddf-4f71-ab31-08df2028597b)
