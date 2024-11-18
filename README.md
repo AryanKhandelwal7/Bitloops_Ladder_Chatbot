@@ -8,7 +8,7 @@ To whomever reading this readme file, if you want to implement the same chatbot 
 
 # Step-by-Step Guide
 
-**STEP 1** : __Use OpenAI's playground and develop an API key__
+**STEP 1** : __USE OpenAI's PLAYGROUND AND DEVELOP AN API KEY__
 
 Upon developing this chatbot, it involved the usage of OpenAI's ChatGPT and it acted as the basic framework at the back-end. To import ChatGPT within your python code, you need to create an API key to have a tested ChatGPT for your personal usage. A key fact to remember is that you need to spend a minimum of $2 [Through this process, I spent $10, and realize that it was too much for its use at this state] in order to enable the incorporation of the GPT model within your code.
 
