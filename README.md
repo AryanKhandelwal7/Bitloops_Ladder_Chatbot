@@ -29,3 +29,12 @@ Once you have the HTML & the Python file set and complete, you wil need to organ
 Upon having both your files (app.py & index.html), create a folder named as **"my-flask-app"** and store both the files within them. Once done, create a sub-folder named as "**templates**" and store the index.html file ONLY.   
 
 Once done, you will now be able to run your .py file smoothly and ensure no errors.
+
+**STEP 4 : RUN THE FILE**
+
+After completing all the steps, you will be able to effectively run the file and utilize your own chatbot.
+
+# ADDITIONAL NOTES
+
+- Remember to use the same file / folder names for the entire duration. If the name is changed, please make sure to update the file's name in the corresponding code. (eg. if app.py is renamed as app23.py, make sure to update its name in index.html)
+- To make the chatbot tailored for a different use, you can change the prompt that is displayed in the "system_msg" within the app.py code. 
